@@ -1,9 +1,11 @@
 ---
+layout: default
 title: Welcome to my blog showcasing a project I've made to learn a new GitHub skill.
 ---
 
 # Hi, I'm Diya! :joy:
 
+---
 # About this project
 This was created to learn a new competency, strengthening my skills for my career.
 - I found and utilized resources to learning more about GitHub
